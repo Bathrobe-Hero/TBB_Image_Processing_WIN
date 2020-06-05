@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\school - uni\year 3\parralel\coursework1\tbb_image_processing_win\rgb_processingwin\main.cpp(124): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\school - uni\year 3\parralel\coursework1\tbb_image_processing_win\rgb_processingwin\main.cpp(157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school - uni\year 3\parralel\coursework1\tbb_image_processing_win\rgb_processingwin\main.cpp(164): warning C4018: '<': signed/unsigned mismatch
+d:\school - uni\year 3\parralel\coursework1\tbb_image_processing_win\rgb_processingwin\main.cpp(166): warning C4018: '<': signed/unsigned mismatch
+d:\school - uni\year 3\parralel\coursework1\tbb_image_processing_win\rgb_processingwin\main.cpp(270): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\school - uni\year 3\parralel\coursework1\tbb_image_processing_win\rgb_processingwin\main.cpp(357): warning C4244: 'argument': conversion from 'uint64_t' to 'Value', possible loss of data
+          with
+          [
+              Value=int
+          ]
+  RGB_ProcessingWin.vcxproj -> D:\School - Uni\Year 3\Parralel\Coursework1\TBB_Image_Processing_WIN\RGB_ProcessingWin\Debug\RGB_ProcessingWin.exe
